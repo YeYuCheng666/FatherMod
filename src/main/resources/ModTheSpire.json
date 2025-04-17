@@ -2,7 +2,7 @@
   "modid": "FatherMod",
   "name": "FatherMod",
   "author_list": ["Ben"],
-  "description": "为部分遗物添加生效计数器的mod。",
+  "description": "为原版部分遗物添加生效计数器的mod。",
   "version": "1.0.0",
   "sts_version": "12-18-2022",
   "mts_version": "3.30.3",
